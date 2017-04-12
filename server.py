@@ -1,5 +1,5 @@
 '''
-################################## server.py #############################
+############ server.py #################
 # Wallet Encryption GRPC Service encrypts credit/debit cards data and
 # decrypts token back to plain text card detail. It uses Fernet symmetric
 # encryption library.
